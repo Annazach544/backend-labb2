@@ -15,3 +15,6 @@ API:et hanterar arbetserfarenheter och stödjer CRUD-operationer med HTTP-metode
 ```bash
 npm install
 npm run dev
+
+## Publicerad webbtjänst
+https://backend-labb2.onrender.com/
